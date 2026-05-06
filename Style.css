@@ -1,0 +1,20 @@
+
+h1{
+    background: antiquewhite;
+    padding: 10px;
+}
+
+div {
+    margin: 10px;
+}
+
+.label{
+    display: inline-block;
+    width: 150px;
+}
+.error{
+    background-color: #fb5e5e;
+    color: white;
+    padding: 5px;
+    border-radius: 4px;
+}
