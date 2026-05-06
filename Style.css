@@ -18,3 +18,11 @@ div {
     padding: 5px;
     border-radius: 4px;
 }
+
+
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
